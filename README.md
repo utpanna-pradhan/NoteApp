@@ -132,3 +132,8 @@ Avoided Redux / Context API since app state is small
 Loader is simulated using setTimeout to demonstrate UI state handling
 
 These decisions were made intentionally to align with the assignment focus on frontend fundamentals.
+
+## Screenshots
+<img width="1366" height="534" alt="Screenshot (764)" src="https://github.com/user-attachments/assets/b06c1886-a881-46b3-9936-8e1484bd26da" /><img width="1366" height="530" alt="Screenshot (765)" src="https://github.com/user-attachments/assets/9861030c-edb3-4fd8-bcd8-51d32f86d3f4" />
+<img width="1366" height="583" alt="Screenshot (766)" src="https://github.com/user-attachments/assets/958b1e06-0601-4db6-80f4-592b199c80cf" />
+
